@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       `
       toyCollection.innerHTML += newToyHTML
-      //.reset() 
+      //.reset() can reset the text input fields to be blank again
     })
   })
 
